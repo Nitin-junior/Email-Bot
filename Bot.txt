@@ -1,0 +1,13 @@
+What Is an Email Bot? 
+An email bot is an automated marketing tool that can respond quickly to incoming email leads. 
+Using Artificial Intelligence and contextual analysis, an email bot delivers customized email responses, 
+allowing you to automatically respond with the right message and engage potential leads.
+How do I make a Gmail bot?
+Add bots in direct messages
+1.Open Gmail .
+2.In the Chat section, select a direct message.
+3.At the top, click Menu. next to the person, or list of people in the chat.
+4.Click Add bots.
+5.Enter the name of the bot, or select from the suggestions.
+6.Click Add.
+
